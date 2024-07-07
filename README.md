@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Java && Deep Learning
 - 💞️ I’m looking to collaborate on programs
-- 📫 How to reach me from my profile
+- 📫 How to reach me -> from my profile
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: gourmet
 
